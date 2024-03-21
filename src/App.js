@@ -13,7 +13,9 @@ import Join from "./Join";
 export default function App() {
   return (
     <>
+      <hr />
       <Join />
+      <hr />
       <Arrangement />
       <hr />
       <UsersList />
